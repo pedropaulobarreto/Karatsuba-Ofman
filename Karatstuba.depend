@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1272659672 source:f:\facul\programacao\c++ codes\karatsuba projeto\karatstuba\biginteger.cc
+	"BigInteger.hh"
+
+1589485594 f:\facul\programacao\c++ codes\karatsuba projeto\karatstuba\biginteger.hh
+	"BigUnsigned.hh"
+
+1272659672 f:\facul\programacao\c++ codes\karatsuba projeto\karatstuba\bigunsigned.hh
+	"NumberlikeArray.hh"
+
+1272659672 f:\facul\programacao\c++ codes\karatsuba projeto\karatstuba\numberlikearray.hh
+
+1272659672 source:f:\facul\programacao\c++ codes\karatsuba projeto\karatstuba\bigintegeralgorithms.cc
+	"BigIntegerAlgorithms.hh"
+
+1272659672 f:\facul\programacao\c++ codes\karatsuba projeto\karatstuba\bigintegeralgorithms.hh
+	"BigInteger.hh"
+
+1272659672 source:f:\facul\programacao\c++ codes\karatsuba projeto\karatstuba\bigintegerutils.cc
+	"BigIntegerUtils.hh"
+	"BigUnsignedInABase.hh"
+
+1272659672 f:\facul\programacao\c++ codes\karatsuba projeto\karatstuba\bigintegerutils.hh
+	"BigInteger.hh"
+	<string>
+	<iostream>
+
+1272659672 f:\facul\programacao\c++ codes\karatsuba projeto\karatstuba\bigunsignedinabase.hh
+	"NumberlikeArray.hh"
+	"BigUnsigned.hh"
+	<string>
+
+1272659672 source:f:\facul\programacao\c++ codes\karatsuba projeto\karatstuba\bigunsigned.cc
+	"BigUnsigned.hh"
+
+1272659672 source:f:\facul\programacao\c++ codes\karatsuba projeto\karatstuba\bigunsignedinabase.cc
+	"BigUnsignedInABase.hh"
+
+1589576158 source:f:\facul\programacao\c++ codes\karatsuba projeto\karatstuba\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<string>
+	<fstream>
+	<windows.h>
+	<random>
+	<limits>
+	"BigIntegerLibrary.hh"
+
+1589489479 f:\facul\programacao\c++ codes\karatsuba projeto\karatstuba\bigintegerlibrary.hh
+	"NumberlikeArray.hh"
+	"BigUnsigned.hh"
+	"BigInteger.hh"
+	"BigIntegerAlgorithms.hh"
+	"BigUnsignedInABase.hh"
+	"BigIntegerUtils.hh"
+
